@@ -117,8 +117,10 @@ print(Name)
 #
 #
 #
-# print(int(y) + int(y))
+# print(int(y) + int(x))
 
 #####
 
 "Жаны строка"
+
+"Майнден жаны строка"
