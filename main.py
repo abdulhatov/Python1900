@@ -117,7 +117,7 @@ print(Name)
 #
 #
 #
-# print(int(y) + int(x))
+# print(int(y) + int(y))
 
 #####
 
