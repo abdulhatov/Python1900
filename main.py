@@ -124,3 +124,8 @@ print(Name)
 "Жаны строка"
 
 "Майнден жаны строка"
+
+as;dflajsdf
+asdfasd
+fasdf
+
