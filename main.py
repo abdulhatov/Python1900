@@ -112,12 +112,12 @@ print(Name)
 ##############
 
 
-# x = input("San kirgiziniz : ")
-# y = input("San kirgiziniz : ")
+# x = input("San kirgiziniz1 : ")
+# y = input("San kirgiziniz1 : ")
 #
 #
 #
-# print(int(y) + int(x))
+# print(int(y) + int(y))
 
 #####
 
