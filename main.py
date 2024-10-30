@@ -120,3 +120,5 @@ print(Name)
 # print(int(y) + int(x))
 
 #####
+
+"Жаны строка"
